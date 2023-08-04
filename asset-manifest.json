@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clock/static/css/main.e8f956fd.css",
+    "main.js": "/clock/static/js/main.1cc11ca8.js",
+    "static/media/DigitalNumbers-Regular.ttf": "/clock/static/media/DigitalNumbers-Regular.cc3aac3fb51de512bd28.ttf",
+    "index.html": "/clock/index.html",
+    "main.e8f956fd.css.map": "/clock/static/css/main.e8f956fd.css.map",
+    "main.1cc11ca8.js.map": "/clock/static/js/main.1cc11ca8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8f956fd.css",
+    "static/js/main.1cc11ca8.js"
+  ]
+}
